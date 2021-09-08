@@ -29,7 +29,7 @@ twitter_username: fran_mosteiro
 github_username:  franmosteiro
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
