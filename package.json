@@ -1,0 +1,21 @@
+{
+  "name": "franmosteiro.github.io",
+  "version": "0.0.1",
+  "description": "franmosteiro's Site",
+  "main": "index.js",
+  "authors": {
+    "name": "franmosteiro",
+    "email": "fran@larivolta.es"
+  },
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "vuepress-theme-bulma": "^1.1.0"
+  },
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
