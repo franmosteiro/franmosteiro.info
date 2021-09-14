@@ -1,7 +1,7 @@
 <template>
   <div class="body">
     <p>
-      I'm a <b>Product Engineer</b> from <a href="https://goo.gl/maps/acotGaE7nSeBR3ce7" target="_blank">Bilbao, Basque Country</a>
+      I'm a <b>Product Engineer</b> from <a href="https://goo.gl/maps/acotGaE7nSeBR3ce7" target="_blank">Bilbao, Basque Country</a> currently based in <a href="https://goo.gl/maps/6fF7EUD559at4zMy6" target="_blank">Barcelona, Catalonia</a>
       <br/>
       👇 Here there are some links, in case you want to have a look and see what I'm up to 👇
     </p>
@@ -22,7 +22,7 @@
 <style scoped>
 .body {
   margin: auto;
-  width: 50%;
+  width: 70%;
   padding: 10px;
   text-align: center;
 }
