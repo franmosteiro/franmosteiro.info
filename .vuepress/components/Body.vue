@@ -1,9 +1,9 @@
 <template>
   <div class="body">
     <p>
-      I'm a <b>Product Engineer</b> from <a href="https://goo.gl/maps/acotGaE7nSeBR3ce7" target="_blank">Bilbao, Basque Country</a> currently based in <a href="https://goo.gl/maps/6fF7EUD559at4zMy6" target="_blank">Barcelona, Catalonia</a>
+      I'm a <b>Product Engineer</b> from and currently based in<a href="https://goo.gl/maps/acotGaE7nSeBR3ce7" target="https://maps.app.goo.gl/nSDHj1Ch9zpKjiZ99">Bilbao, Basque Country</a>
       <br/>
-      👇 Here there are some links, in case you want to have a look and see what I'm up to 👇
+      👇 Here are some links if you want to take a look and see what I'm up to 👇
     </p>
     <p>
       <a href="https://github.com/franmosteiro" target="_blank">
